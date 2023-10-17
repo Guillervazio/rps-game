@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\paper-rock-scissors.props" />
+</Project>
