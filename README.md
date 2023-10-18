@@ -1,5 +1,5 @@
 # rps-game
-a basic "backend" or console game rock, paper and scissors game
+a basic "backend" or console  "rock, paper and scissors" game
 
 
 //////RESULT MATRIX///////
